@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photographer Courses</title>
+    <style>
+        body{
+            overflow-x: hidden;
+        }
+
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+
+        li {
+            float: left;
+        }
+
+        li a {
+            
+            padding: 8px;
+        
+        }
+        a{
+            text-decoration: none;
+        }
+        .navbar{
+            margin-left: 1000px;
+            font-size: 20px;
+            position: relative;
+            bottom: 830px;
+        }
+        img{
+            height: 800px;
+            width: 100%;
+        }
+        .h1{
+            position: relative;
+            bottom: 800px;
+            color: black;
+            position: relative;
+            left: 30px;
+
+        }
+        pre{
+            color: black;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            size: 20px;
+            width: 20px;
+            position: relative;
+            bottom: 650px;
+            position: relative;
+            left: 300px;
+        }
+        .p1{
+            font-size: 30px;
+            font-family:Arial, Helvetica, sans-serif;
+            color: black;
+            position: relative;
+            bottom: 570px;
+            position: relative;
+            left: 600px;
+        }
+        .p2{
+            font-family:Arial, Helvetica, sans-serif;
+            color: black;
+            position: relative;
+            bottom: 600px;
+            position: relative;
+            left: 450px;
+            font-size: 50px;
+        }
+
+    </style>
+</head>
+
+<body>
+    <img src="img1.jpg">
+    <h1 class="h1">PhotoM4</h1>
+    <div class="navbar">
+    <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#Live Demo">LiveDemo</a></li>
+        <li><a href="#Live Demo  Blocks">LiveDemoBlocks</a></li>
+        
+    </ul>
+    </div>
+    <p class="p1">PROFESSIONAL</p>
+    <p class="p2">Photographer Courses</p>
+    <pre>                                  
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu dui non diam eleifend egestas id a ligula. Proin
+         interdum vehicula neque sit amet scelerisque. Nulla imperdiet mollis libero, in efficitur ligula. Sed malesuada
+                  diam ac nibh ultricies condimentum. Ut finibus tortor odio, vitae feugiat purus faucibus ac.
+
+
+    </pre>
+
+
+
+</body>
+
+</html>
